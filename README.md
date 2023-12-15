@@ -5,7 +5,7 @@ Klondike is a lightly customized version of Fedora Linux created to fill the gap
 
 One core goal is to build the means to take up the slack for the remaining life of KDE 6 for the relevent components after upstream support is dropped, if at all possible. To be clear, this remix is in no way designed to justify or dispute the decision of the Fedora KDE SIG to pre-emptively stop supporting the Xorg session for KDE despite KDE upstream not *yet* dropping support. However, it is highly anticipated that will happen mid-stream, no doubt, causing disruptions to users, packagers, and distros alike.
 
-Another is to assist in connecting users to those whom can best help get their Wayland issues accounted for and resolved while still enjoying KDE on Fedora in the meantime.
+Another is to assist in connecting users to those whom can best help get their Wayland issues accounted for and resolved while still enjoying KDE Plasma in Xorg on Fedora in the meantime.
 
 The last (for now) is to have a lighter default selection of system and KDE components as well as some default configuration changes toward that focus.
 
