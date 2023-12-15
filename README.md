@@ -9,7 +9,7 @@ Another is to assist in connecting users to those whom can best help get their W
 
 The last (for now) is to have a lighter default selection of system and KDE components as well as some default configuration changes toward that focus.
 
-Otherwise, it's KDE on Fedora just plan to come here before bothering Fedora flora to be sure it isn't something unique to Klondike.
+Otherwise, it's KDE on Fedora. Just plan to come here before bothering Fedora flora to be sure it isn't something unique to Klondike ;)
 
 ### What it is **NOT**:
 - Just identical to the Fedora KDE Sig configuration with the relevant components re-added.
