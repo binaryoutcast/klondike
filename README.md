@@ -12,11 +12,11 @@ The last (for now) is to have a lighter default selection of system and KDE comp
 Otherwise, it's KDE on Fedora. Just plan to come here before bothering Fedora flora to be sure it isn't something unique to Klondike ;)
 
 ### What it is **NOT**:
-- Just identical to the Fedora KDE Sig configuration with the relevant components re-added.
+- Just identical to the Fedora KDE Spin configuration with the relevant components re-added.
 - An excuse to ignore wayland and the issues you are facing using it.
 - Zero effort for sole gain.
 
-### Changes from the Fedora KDE SIG:
+### Changes from the Fedora KDE Spin:
 - TBA
 
 ### Current Status:
